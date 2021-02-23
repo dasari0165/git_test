@@ -1,0 +1,2 @@
+def math():
+    pass
