@@ -1,6 +1,2 @@
 this is sample text file
-<<<<<<< HEAD
-
-=======
 hello i have changed the text
->>>>>>> 7d54fa65c3997980cebc90dec1e87cb4706e565a
